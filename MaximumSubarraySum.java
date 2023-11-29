@@ -2,7 +2,7 @@ package slidingWindow;
 
 import java.util.ArrayList;
 
-public class Solution{
+public class MaximumSubarraySum{
     static long maximumSumSubarray(int K, ArrayList<Integer> Arr,int N){
         // code here
         int i=0;
